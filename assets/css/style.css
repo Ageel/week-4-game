@@ -1,3 +1,110 @@
 body {
-	background-image: url("assets/images/grad2.png");
+	background-image: url("../images/grad.png");
+	/*background-color: pink;*/
+	/*color: red;*/
+	margin-bottom: 13px;
 }
+
+.jumbotron {
+	background-image: url("../images/restaurant.png");
+	text-align: center;
+	font-family: 'Electrolize', sans-serif;
+	font-weight: bold;
+	word-spacing: 20px;
+	letter-spacing: 7px;
+	text-shadow: 2px 2px 3px gray;
+	margin-top: 15px;
+}
+
+.text {
+	font-family: 'Syncopate', sans-serif;
+	font-size: 1.2em;
+	-webkit-column-count: 3;
+	column-rule: 2px solid #ccc;
+	column-gap: 20px;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 10px;
+	/*margin-left: 15px;*/
+}
+
+hr {
+	height: 22px;
+}
+
+.randomNum {
+	height: 150px;
+	background-color: #0aaa4a;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 4.1em;
+	color: white;
+	border-radius: 10px;
+}
+
+.score {
+	height: 150px;
+	background-color: #069c96;
+	padding-top: 30px;
+	font-size: 1.8em;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+
+
+}
+
+
+.crystal {
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-bottom: 20px;
+	/*margin: 20px auto;*/
+}
+
+.alerting {
+	height: 60px;
+	background-color: #25dfe7;
+	font-size: 1.9em;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+
+.userCount {
+	height: 100px;
+	background-color: #25dfe7;
+	font-size: 1.9em;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+	padding-top: 20px;	
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+font-family: 'Electrolize', sans-serif;
+font-family: 'Michroma', sans-serif;
+font-family: 'Syncopate', sans-serif;
+font-family: 'Chathura', sans-serif;
